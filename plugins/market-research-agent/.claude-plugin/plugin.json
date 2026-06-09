@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "market-research-agent",
+  "displayName": "IndigoEdge Market Research Agent",
+  "description": "Pre-diligence accelerator. Name a company; get a sourced, conflict-flagged three-part dossier (Company / Sector / Comparables) written to Notion, with an optional branded Word doc.",
+  "version": "9.1.0",
+  "author": {
+    "name": "IndigoEdge"
+  },
+  "keywords": ["pre-diligence", "vc", "investment-banking", "market-research", "comparables", "dossier"],
+  "mcpServers": {
+    "tracxn": {
+      "type": "http",
+      "url": "https://platform.tracxn.com/mcp"
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp"
+    }
+  }
+}
