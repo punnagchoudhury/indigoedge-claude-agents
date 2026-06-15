@@ -3,7 +3,7 @@
   "name": "market-research-agent",
   "displayName": "IndigoEdge Market Research Agent",
   "description": "Pre-diligence accelerator. Name a company; get a sourced, conflict-flagged three-part dossier (Company / Sector / Comparables) written to Notion, with an optional branded Word doc.",
-  "version": "9.2.0",
+  "version": "9.3.0",
   "author": {
     "name": "IndigoEdge"
   },
