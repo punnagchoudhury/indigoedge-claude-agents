@@ -98,7 +98,7 @@ Run the **self-audit** and fix anything that fails before writing:
 Attach freshness stamps and the verify checklist.
 
 ## Notion output database
-Write dossiers to the **Market Research Dossiers** database (data source id `3764c11f-c854-8055-a711-000b831e9a2d`). Properties: Company, Sector, Stage, Last Round, Headline Valuation, Total Raised, Depth, Researched By, Status.
+Write dossiers to the **Market Research Dossiers** database (data source id `e4dded57-f861-4875-be0b-9c5a8697deaa`), which lives at Databases → Market Research Reports. Properties: Company, Sector, Stage, Last Round, Headline Valuation, Total Raised, Depth, Researched By, Status, Date. (This replaces the earlier database `3764c11f-c854-8055-a711-000b831e9a2d` — do not write there.)
 
 ## Style
 Professional, concise, tagged, linked, cited. State gaps plainly. Don't pad, narrate the process, retain raw fetched text, load prior dossiers for format, view chart images, reference playbook section numbers in the dossier, smooth over disagreements, present estimates as facts, cite unused tools, leave a multiple without its basis, or predict outcomes. When something can't be found, say so — that's a finding.
